@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chionerky
 - 👀 I’m interested in ... web and software development
-- 🌱 I’m currently learning ... Html/CSS/js
+- 🌱 I’m web developer and UX/UI designer ... Html/CSS/js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... chibuikeaugustine147@gmail.com
 For more info.
